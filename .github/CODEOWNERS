@@ -1,0 +1,6 @@
+# These owners will be the default owners for everything in the repo. Unless a later match takes the precedance.
+# These owners will be requested for review when someone opens a pull request.
+@akshmangal005 
+
+# Specific ownership for a file
+/README.md @akshmangal005 
